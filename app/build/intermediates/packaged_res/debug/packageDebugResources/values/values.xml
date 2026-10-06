@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="parabellum_bg">#F4F1EA</color>
+    <color name="parabellum_primary">#1D3A2F</color>
+    <string name="app_name">Parabellum</string>
+    <string name="widget_description">Displays current work queue status from Parabellum.</string>
+    <string name="widget_name">Parabellum Queue Widget</string>
+    <style name="Theme.Parabellum" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#F4F1EA</item>
+        <item name="android:navigationBarColor">#F4F1EA</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>

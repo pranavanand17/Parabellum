@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+color parabellum_bg
+color parabellum_primary
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+string app_name
+string widget_description
+string widget_name
+style Theme.Parabellum
+xml parabellum_widget_info

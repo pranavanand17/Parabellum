@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parabellum</string>
+    <string name="widget_name">Parabellum Queue Widget</string>
+    <string name="widget_description">Displays current work queue status from Parabellum.</string>
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.parabellum.app-debug-69:/xml_parabellum_widget_info.xml.flat",
+        "source": "com.parabellum.app-main-71:/xml/parabellum_widget_info.xml"
+    },
+    {
+        "merged": "com.parabellum.app-debug-69:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.parabellum.app-main-71:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.parabellum.app-debug-69:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.parabellum.app-main-71:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.parabellum.app-debug-69:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.parabellum.app-main-71:/drawable/ic_launcher_foreground.xml"
+    }
+]
